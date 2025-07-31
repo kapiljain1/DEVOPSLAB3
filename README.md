@@ -1,1 +1,5 @@
-Hi, We are from Shiv Nadar University Chennaigit checkout -b update-readme
+we belong to schoolmof engineering 
+hi we are from shiv nadar university chennai
+
+
+
